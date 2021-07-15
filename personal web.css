@@ -1,0 +1,74 @@
+html{
+    background-image:url("web/image/space.jpg.jpg")
+}
+
+.box1{
+   text-align: center;
+   color:white;  
+   background-color:turquoise;
+   border: 10px ;
+   border-radius: 10px;
+   font-family:"roboto";
+   font-size:20px;
+   padding:20px;
+   margin:10px 0px;
+   box-shadow:0 0 50px white;
+}
+
+.social a{
+text-decoration: none;
+  color:darkslategray;
+  float:right;
+  margin:5px;
+  background-color:cornsilk;   
+}
+
+section{
+    display: flex;
+}
+
+.box2{
+    color:black;
+    background-color:dodgerblue;
+   padding: 300px;
+   width:10px;
+   font-size: 30px;
+   border-radius: 20px;
+   font-size: 40px;
+   box-shadow:0 0 50px white;
+}
+
+.box3{
+    color:white;
+    background-color:black;
+    float:left;
+    width:55%;
+    float:right;
+    border-radius: 20px;
+    padding:100px;
+    font-family:"IBM Plex Mono", monospace;
+    font-size:25px;   
+    box-shadow:0 0 50px white;
+}
+
+.box4 h1{
+    color:gold;
+    text-align:center;
+}
+
+.box5{
+    text-align: center;
+   color:white;  
+   background-color:navy;
+   border: 10px ;
+   font-family:"roboto";
+   font-size:20px;
+   padding:20px;
+   margin-top: 600px;
+}
+
+.social2 a{
+    text-decoration: none;
+    color:white;
+    margin:5px;
+}
